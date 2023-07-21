@@ -4,9 +4,9 @@ Advanced Programing Course at Shiraz University
 
 GENERAL DESCRIPTION:
   You can input your image in 3 ways: 
-  1. image file from directory 
-  2. send it via Email
-  3. download link to the image
+  1. Image file that is available locally.
+  2. Send the image file via email.
+  3. Provide a download link to the image
   The program supports three image formats: PNG, JPG(also JPEG) and BMP(BMP is handeled explicitly and without the us of any external libraries).
   The algorithm for the filters with the title 'improv' or 'improvised' title are completely our own ideas influenced by some photoshop features.
 
